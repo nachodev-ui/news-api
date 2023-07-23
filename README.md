@@ -1,8 +1,51 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Preview
 
-Currently, two official plugins are available:
+![Preview](./preview-news-api.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+
+This is a React + Vite project that uses the News API to display news articles. 
+
+## Usage
+
+```bash
+pnpm install
+
+# or
+
+yarn install
+
+# or
+
+npm install
+```
+
+## Run
+
+```bash
+pnpm dev
+
+# or
+
+yarn dev
+
+# or
+
+npm run dev
+```
+
+## Features
+
+- [x] React
+- [x] Vite
+- [x] Axios
+- [x] News API
+- [x] ESLint
+```
+
+
+
+
+
