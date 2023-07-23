@@ -43,7 +43,6 @@ npm run dev
 - [x] Axios
 - [x] News API
 - [x] ESLint
-```
 
 
 
